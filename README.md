@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sourabh
-- 👀 I’m interested in startup, mathematics,programing  
+- 👀 I’m interested in startup, mathematics,programming  
 - 🌱 I’m currently learning data science and programming
 - 💞️ I’m looking to collaborate on web and andriod development,builinding software for taking taking data of hand written or audio items list (grocery or books mainly).  
 - 📫 How to reach me sourabhsahu69733@gmail.com
