@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Sourabh, working as a software engineer in sivi.ai
+- 👋 Hi, I’m Sourabh, software engineer
 - 📫 How to reach me sourabhsahu69733@gmail.com
 
 <!---
